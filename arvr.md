@@ -5,6 +5,7 @@
 - 지도교수: 조세홍
 ## 5 AmuseBrew
 - 3D 스릴러 게임 
+- [GitHub Link](https://github.com/joowonlee780/AmuseBrew)
 - 지도교수: 이항찬
 ## 7 AnyGame
 - 3D 횡스크롤 게임 
