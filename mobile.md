@@ -22,7 +22,7 @@
 - 박우림, 박준석, 정예린, 주권영
 - 지도교수: 정인환
 - Youtube 동영상(전시 영상)
-- [![전시 표지](https://user-images.githubusercontent.com/70479375/170942282-283b9810-1478-4fb7-b93d-e1aabc03cfb8.png)](https://youtu.be/aAYI_ccyGCk)
+- [<img src="https://user-images.githubusercontent.com/70479375/170942282-283b9810-1478-4fb7-b93d-e1aabc03cfb8.png" alt="전시 표지" style="zoom:33%;" />](https://youtu.be/aAYI_ccyGCk)(https://youtu.be/aAYI_ccyGCk)
 
 ## 28	디딤돌
 - 공지사항 키워드 알림 어플리케이션
