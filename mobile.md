@@ -16,6 +16,11 @@
 - 맛집 예약 관리 서비스
 - 지도교수:	정인환
 
+## 19 Petmily
+- 반려동물 커뮤니티 및 관리 서비스, 머신러닝을 이용한 반려동물 감정분석
+- 지도교수: 정인환
+- [GitHub Link](https://github.com/bagoonichanger/Petmliy_android_app)
+
 ## 28	디딤돌
 - 공지사항 키워드 알림 어플리케이션
 - 지도교수:	강희중
