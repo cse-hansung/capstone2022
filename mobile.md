@@ -21,6 +21,8 @@
 - [GitHub Link](https://github.com/bagoonichanger/Petmliy_android_app)
 - 박우림, 박준석, 정예린, 주권영
 - 지도교수: 정인환
+- Youtube 동영상(전시 영상)
+- [전시 영상](https://youtu.be/aAYI_ccyGCk)
 
 ## 28	디딤돌
 - 공지사항 키워드 알림 어플리케이션
