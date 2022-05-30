@@ -25,7 +25,7 @@
 
 [<img src="https://user-images.githubusercontent.com/70479375/170943139-be641897-fd9e-4d55-b515-ad926531100b.png" alt="전시 표지"
  width = "360" height="180" />](https://youtu.be/aAYI_ccyGCk)
-- Youtube 동영상( 영상)
+- Youtube 동영상(발표 영상)
 
 ## 28	디딤돌
 - 공지사항 키워드 알림 어플리케이션
