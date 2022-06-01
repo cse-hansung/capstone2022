@@ -29,6 +29,14 @@
     - [<img src="https://user-images.githubusercontent.com/70479375/170943139-be641897-fd9e-4d55-b515-ad926531100b.png" alt="전시 표지"
  width = "360" height="180" />](https://youtu.be/OhhwRF_aNI8)
 
+## 22 TeamCook
+- 음성인식 요리가이드 어플리케이션
+- [GitHub Link](https://github.com/x1201/CooksBee)
+- 박희태, 신혁수, 이용구, 최윤정
+- 지도교수: 김영웅
+- Youtube 동영상
+- [![제목](https://user-images.githubusercontent.com/43109143/171448164-8beff92c-f67a-4fc7-8213-4964f00ebaa2.PNG)](https://youtu.be/CYH1Jk34fzk)
+
 ## 28	디딤돌
 - 공지사항 키워드 알림 어플리케이션
 - 지도교수:	강희중
