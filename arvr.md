@@ -37,6 +37,9 @@
 ## 47 코딩하는 쿼카
 - 한성대학교 메타버스 캠퍼스 
 - 지도교수: 계희원
+- [![Video Label](https://img.youtube.com/vi/7eomOVaag4c/0.jpg)](https://www.youtube.com/watch?v=7eomOVaag4c)
+- [발표동영상](https://www.youtube.com/watch?v=7eomOVaag4c)
+- [깃허브링크](https://github.com/Hwang-YoonGyu/HSU_On_by_Unity)
 ## 51 CPG
 - 크로스플랫폼 슈팅 게임 
 - 지도교수: 김진모
