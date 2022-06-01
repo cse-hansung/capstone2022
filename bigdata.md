@@ -8,6 +8,8 @@
 - 지도교수: 엄종석
 ## 16 Lakehouse
 - 실시간 데이터 시각화 웹 어플리케이션
+- [Github Link](https://github.com/jihun212/2022CapstoneDesign)
+- 조규정,최지훈,정지현,김혜원
 - 지도교수: 엄종석
 ## 18 Peaches
 - 가상피팅 서비스를 제공하는 중고 거래 마켓
