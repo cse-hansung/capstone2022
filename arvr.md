@@ -39,6 +39,7 @@
 - 지도교수: 계희원
 - 팀장: 황윤규
 - 팀원: 박성재, 전희연, 심우호, 임수빈
+- ![img](https://user-images.githubusercontent.com/75091031/171473568-5f078920-d8a9-47ef-b7c4-a6fbac8d923a.png)
 - [![Video Label](https://img.youtube.com/vi/7eomOVaag4c/0.jpg)](https://www.youtube.com/watch?v=7eomOVaag4c)
 - [발표동영상](https://www.youtube.com/watch?v=7eomOVaag4c)
 - [깃허브링크](https://github.com/Hwang-YoonGyu/HSU_On_by_Unity)
