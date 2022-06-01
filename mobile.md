@@ -26,8 +26,9 @@
 [<img src="https://user-images.githubusercontent.com/70479375/170943139-be641897-fd9e-4d55-b515-ad926531100b.png" alt="전시 표지"
  width = "360" height="180" />](https://www.youtube.com/watch?v=CfLEWmCUOZU)
 - Youtube 동영상(발표 영상)
-*** 자막 사용해서 시청하세요 ***
 
+*** 자막 사용해서 시청하세요 ***
+<span style="color: #2D3748; background-color:#fff5b1;">Strong</span>
 [<img src="https://user-images.githubusercontent.com/70479375/170943139-be641897-fd9e-4d55-b515-ad926531100b.png" alt="전시 표지"
  width = "360" height="180" />](https://youtu.be/OhhwRF_aNI8)
 
