@@ -3,9 +3,6 @@
 ## 9 E-Tech
 - 이머징테크 예측
 - 지도교수: 김성동
-## 14 Go부기
-- 추천 시스템을 이용한 운동앱
-- 지도교수: 엄종석
 ## 16 Lakehouse
 - 실시간 데이터 시각화 웹 어플리케이션
 - [Github Link](https://github.com/jihun212/2022CapstoneDesign)
