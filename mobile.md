@@ -72,7 +72,12 @@
 
 ## 49	황스택
 - 영상 메타데이터 자동 구축 · 재생 시스템 (Video Meta System)
+- 조민화, 김다연, 오하늘, 이선영, 이화랑
 - 지도교수:	황기태
+- [GitHub Link](https://github.com/yeondelight/VideoMetaSystem)
+- Youtube 동영상
+- [<img src="https://user-images.githubusercontent.com/73868349/171586152-85d907ca-51e4-4186-998c-c3c808e651e2.jpg" alt="VMeta"
+ width = "480" height="270" />](https://youtu.be/-k8TcLdf65s)
 
 ## 52	맛나요
 - 식사 같이할 사람 찾기 및 맛집 공유앱
