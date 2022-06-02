@@ -38,7 +38,7 @@
 ## 43	인강다모아
 - 인터넷 강의 버전의 다나와
 - 지도교수:	김성동
-- github 주소 : https://github.com/hansungingang?tab=repositories 
+- GitHub주소(https://github.com/hansungingang/capstone)
 ## 44	지키미
 - 상비약 정보 나눔 웹
 - 지도교수:	이석기
