@@ -17,7 +17,6 @@
 - 지도교수:	황호영
 ## 23 Vegin 
 - 비건 정보 제공 및 맞춤 추천 서비스
-- [GitHub Link](https://github.com/jungyeeun00/Vegin.git)
 - 팀장 : 정예은
 - 팀원 : 윤소정, 이가인, 편주혜
 - 지도교수: 이석기
