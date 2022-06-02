@@ -34,6 +34,7 @@
 - 지도교수: 장재영
 ## 53 한성주주
 - 주식 매매 자동화 웹 서비스
+- [Github Link](https://github.com/transurffer/TestTrading)
 - 지도교수: 허준영
 ## 56 박현준
 -  
