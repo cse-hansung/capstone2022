@@ -32,6 +32,9 @@
 ## 33	민초부먹펩시단
 - 자동으로 코드를 생성하는 웹 디자인 툴
 - 지도교수:	정인상
+- 팀원: 곽범석, 김찬웅, 김현수, 이성준
+- [![소개 영상](https://img.youtube.com/vi/6MGNs6CsOps/0.jpg)](https://www.youtube.com/watch?v=6MGNs6CsOps)
+- [GitHub Link](https://github.com/ILikeMintChocolate/Crwft)
 ## 40	우주정복
 - 중고 경매, 거래를 위한 웹 서비스
 - 지도교수:	김영웅
