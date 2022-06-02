@@ -24,7 +24,9 @@
 - 지도교수: 조세홍
 ## 30 로그라이크 서바이버즈
 - 로그라이크와 디펜스 장르 융합 게임 
+- [GitHub Link](https://github.com/qhsgho/Team-Roguelike-Survivors)
 - 지도교수: 김진모
+- [![Video Label](https://img.youtube.com/vi/3O8_nf3D6kE/0.jpg)](https://www.youtube.com/watch?v=3O8_nf3D6kE)
 ## 31 큐티
 - 가상 의료시술 시뮬레이션 
 - 지도교수: 계희원
