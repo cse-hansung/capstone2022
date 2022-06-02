@@ -16,6 +16,12 @@
 - 맛집 예약 관리 서비스
 - 지도교수:	정인환
 
+## 14 Go부기
+- 아이템 기반 협업 필터링을 이용하여 운동 코스를 추천해 주는 안드로이드 어플리케이션
+- [GitHub Link](https://github.com/2022-CapstoneDesign/Pacer-Fit)
+- 정진우, 김가영, 박호제, 전다형
+- 지도교수: 엄종석
+
 ## 19 Petmily
 - 반려동물 커뮤니티 및 관리 서비스, 머신러닝을 이용한 반려동물 감정분석
 - [GitHub Link](https://github.com/bagoonichanger/Petmliy_android_app)
