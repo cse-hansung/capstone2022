@@ -53,7 +53,8 @@
 ## 48	프로포폴 (pro:pofol)
 - 포트폴리오 제작 웹
 - 지도교수:	황호영
-- [![소개 영상](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/Thumnail%2F%EA%B7%B8%EB%A6%BC2.png?alt=media&token=25f89482-e1a9-4aa0-9225-96c369c2936e)](https://youtu.be/X-rooURijag)
+- [소개 영상]
+[![소개 영상](https://firebasestorage.googleapis.com/v0/b/fir-readme-storage.appspot.com/o/Thumnail%2F%EA%B7%B8%EB%A6%BC2.png?alt=media&token=25f89482-e1a9-4aa0-9225-96c369c2936e)](https://youtu.be/X-rooURijag)
 - [GitHub Link](https://github.com/HSU-README)
 ## 50	강산
 - 반려견 산책 매칭 웹서비스
