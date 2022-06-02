@@ -14,6 +14,11 @@
 - 지도교수:	강희중
 ## 21	Sports Mate
 - 팀 스포츠 활동시 장소 결제 및 대여 해주는 웹서비스
+- <img src="https://user-images.githubusercontent.com/66467266/171647557-9622c33b-2f5b-450c-9de0-7d9281bfc4ee.png" alt="전시 표지"
+  width="30%" height="30%" />
+- 팀장 : 박경민
+- 팀원 : 김태현, 박성찬, 송영우
+- [GitHub Link](https://github.com/ran-3roads/Capstone-SportsMate)
 - 지도교수:	황호영
 ## 23 Vegin 
 - 비건 정보 제공 및 맞춤 추천 서비스
