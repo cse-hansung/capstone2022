@@ -30,7 +30,13 @@
 - 	박승현
 ## 27	두이두아
 - 통합 기부 플랫폼
-- 지도교수:	장재영
+- [Github Link](https://github.com/2E2I)
+- 지도교수 : 장재영
+- 팀원 : **임유선**, 서석원, 이혜진, 임서영
+<a href="https://www.youtube.com/watch?v=kBoTZCmTTRg">
+    <img src="https://user-images.githubusercontent.com/67352902/171752557-8e12b5ca-6c90-48ea-b6a3-a59662abb211.png" width="60%"/>
+</a>
+
 ## 32	민수는 행복해
 - 기자재 관리 웹페이지
 - 지도교수:	김성동
