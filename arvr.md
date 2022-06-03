@@ -47,6 +47,9 @@
 ## 51 CPG
 - 크로스플랫폼 슈팅 게임 
 - 지도교수: 김진모
+- [Full 시연 동영상](https://youtu.be/-CUdhisRtPw)
+- [발표동영상](https://youtu.be/jXjSJN0VGgQ)
+- [깃허브링크](https://github.com/hansungCPG/HansungCPG)
 ## 55 진검승부
 - 1:1 검술 PVP VR 게임 
 - 지도교수: 조세홍
