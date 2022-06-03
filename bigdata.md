@@ -17,8 +17,11 @@
 - [<img src="https://user-images.githubusercontent.com/93786956/171763845-4e50df02-403b-4401-89c1-e60639e28569.png" alt="VMeta"
  width = "480" height="270" />](https://youtu.be/85DtWj0bw70)
 ## 24 꿀벌
-- 빅데이터 기반 개인화 여행일정 추천 및 관리 웹
+- 빅데이터 기반 개인화 여행일정 추천 및 관리 웹 어플리케이션
+- [Github Link](https://github.com/HSU-Bee)
+- **한인주**, 박종수, 이윤미, 홍재희
 - 지도교수: 정인환
+- [Application Link](https://petra-24cb8.web.app)
 ## 26 다온
 - 반려동물 건강관리 어플
 - 지도교수: 이재문
