@@ -10,6 +10,7 @@
 - 지도교수: 엄종석
 ## 18 Peaches
 - 가상피팅 서비스를 제공하는 중고 거래 마켓
+- [GitHub Link](https://github.com/Park-Seo-Yeon/PeachMarket)
 - 지도교수: 정인환
 ## 24 꿀벌
 - 빅데이터 기반 개인화 여행일정 추천 및 관리 웹
