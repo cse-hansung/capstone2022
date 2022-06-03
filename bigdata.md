@@ -10,8 +10,12 @@
 - 지도교수: 엄종석
 ## 18 Peaches
 - 가상피팅 서비스를 제공하는 중고 거래 마켓
-- [GitHub Link](https://github.com/Park-Seo-Yeon/PeachMarket)
+- 김수현, 김태경, 박서연, 이지수
 - 지도교수: 정인환
+- [GitHub Link](https://github.com/Park-Seo-Yeon/PeachMarket)
+- Youtube 동영상
+- [<img src="https://user-images.githubusercontent.com/93786956/171763845-4e50df02-403b-4401-89c1-e60639e28569.png" alt="VMeta"
+ width = "480" height="270" />](https://youtu.be/85DtWj0bw70)
 ## 24 꿀벌
 - 빅데이터 기반 개인화 여행일정 추천 및 관리 웹
 - 지도교수: 정인환
