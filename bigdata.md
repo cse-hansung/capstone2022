@@ -30,6 +30,8 @@
 - 지도교수: 엄종석
 ## 37 부기헌터
 - AI 기반 트레이닝 및 식단관리 앱
+- 조호준, 김세원, 박태호, 서희원, 손유현
+- [Github Link](https://github.com/hojun-jo/AI_boogi_trainer)
 - 지도교수: 강희중
 ## 45 초록빛
 - P2P 차량 공유 플랫폼
