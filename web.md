@@ -30,6 +30,8 @@
 - 팀장 : 정예은
 - 팀원 : 윤소정, 이가인, 편주혜
 - 지도교수: 이석기
+- [GitHub Link](https://github.com/jungyeeun00/Vegin)
+- [![Video Label](http://img.youtube.com/vi/9u9Y_aCMLbc/0.jpg)](https://youtu.be/9u9Y_aCMLbc)
 ## 25	나누미
 - 한성대학교 구성원을 위한 중고거래 웹
 - 	박승현
