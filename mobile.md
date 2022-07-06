@@ -67,6 +67,8 @@
 
 ## 39	아리아리
 - 시각장애인을 위한 길안내 어플
+- [GitHub Link](https://github.com/zbti84/WearOS-Navi)
+- 임슬아, 이한별, 이승진, 김현학
 - 지도교수:	황기태
 
 ## 41	웨더인포
